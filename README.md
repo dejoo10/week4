@@ -20,6 +20,11 @@
   - [Perceptron vs Neuron](./material/Perceptron1.md)
   - [Perceptron vs transistor: OR , AND , NOT (XOR?)](./material/Perceptron2.md)
   - [MLP vs MLN???](./material/Perceptron1.md#mlp-vs-mln)
+- Terminology
+  - Forward pass
+  - [Backward pass](./material/backward-pass.md)
+    - Backpropagation
+    - [Gradient descent](./material/w3_Gradient_Descent_Visualization.ipynb)
 - Activities:
   - [Activity 1: Building a Multi Layer Perceptron from Scratch](./material/activity1.ipynb)
   - Activity 2: 
