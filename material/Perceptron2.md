@@ -65,5 +65,6 @@ Both perceptron and transistor play essential roles in computing, but they opera
 
 ### for more
 
-https://uw-madison-datascience.github.io/2022-10-26-machine-learning-novice-sklearn/06-neural-networks/index.html
-https://humphryscomputing.com/Notes/Neural/single.neural.html
+- [Transistors](./transistors_and_logic.pdf)
+- https://uw-madison-datascience.github.io/2022-10-26-machine-learning-novice-sklearn/06-neural-networks/index.html
+- https://humphryscomputing.com/Notes/Neural/single.neural.html
