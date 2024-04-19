@@ -19,6 +19,7 @@
   - [Neuron vs Artificial Neuron](./material/Neuron.md)
   - [Perceptron vs Neuron](./material/Perceptron1.md)
   - [Perceptron vs transistor: OR , AND , NOT (XOR?)](./material/Perceptron2.md)
+  - [MLP vs MLN???](./material/Perceptron1.md#mlp-vs-mln)
 - Activities:
   - [Activity 1: Building a Multi Layer Perceptron from Scratch](./material/activity1.ipynb)
   - Activity 2: 

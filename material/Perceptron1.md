@@ -1,6 +1,6 @@
 # Perceptron vs Neuron
 
-Both perceptron and neuron are fundamental concepts in neural network theory, but they are not exactly the same. Let's delve into their definitions and differences:
+Both perceptron and neuron are fundamental concepts in neural network theory, but they are not exactly the same. 
 
 ### Perceptron
 
@@ -33,3 +33,18 @@ Both perceptron and neuron are fundamental concepts in neural network theory, bu
 - **Neuron**: A more general computational unit used in artificial neural networks, capable of using various activation functions and learning algorithms. It can be part of both single-layer and multi-layer network architectures, making it more flexible for modeling complex problems.
 
 In essence, a perceptron can be considered a special case or a building block of a more complex artificial neuron used in modern neural network architectures.
+
+
+### MLP vs MLN
+
+In the context of neural networks, especially in frameworks like scikit-learn that provide implementations of multi-layer perceptrons (MLPs), it's more accurate to refer to them as multi-layer neurons rather than multi-layer perceptrons.
+
+Here's the rationale:
+
+- **Perceptron**: Refers to a single-layer neural network unit that can be used for binary classification. It computes a weighted sum of its inputs and applies an activation function (typically a step function).
+
+- **Neuron**: Refers to a computational unit in an artificial neural network, which can be part of both single-layer and multi-layer network architectures. A neuron computes a weighted sum of its inputs, applies an activation function, and passes the result to the next layer.
+
+- **Multi-layer Perceptron (MLP)**: Refers to a feedforward artificial neural network with one or more hidden layers. Each neuron in an MLP is a multi-layer neuron, capable of handling non-linear relationships and learning complex patterns in the data.
+
+So, when referring to neural networks with multiple layers, it's more appropriate to use the term "multi-layer neurons" or simply "neural networks" rather than "multi-layer perceptrons," as the latter term specifically implies a single-layer structure.
