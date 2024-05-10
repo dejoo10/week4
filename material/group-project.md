@@ -115,7 +115,7 @@ A brief summary of the topic and the key findings of the report.
    - Relevance and accuracy of information
    - Quality of case studies/examples
    
-2. **Organization and Structure (40 points)**
+2. **Organization and Structure (60 points)**
    - Clarity and coherence
    - Logical flow of ideas
    - Proper use of headings, subheadings, and sections
